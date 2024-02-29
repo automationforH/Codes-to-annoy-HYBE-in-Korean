@@ -20,5 +20,5 @@ Codes to send 2 emails in Korean to HYBE at regular intervals.
   - If you get an email, everything's clear & you can update the recipient emails to HYBE emails.
 16. Change email back to ones given by A4P (given in the codes as well).
 17. Repeat the same process for "Korean Letter 2" from [here](https://tinyurl.com/codes-in-korean-to-annoy-hybe)
-    - Note that your name is not necessary for "Korean Letter 2" so you can skip Step (7) when repeating the process.
+  - Note that your name is not necessary for "Korean Letter 2" so you can skip Step (7) when repeating the process.
 18. To end the automatic emails, go back to Triggers, click the three dots on the right hand side, and click on Delete Trigger.
